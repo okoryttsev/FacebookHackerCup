@@ -1,0 +1,14 @@
+Input
+Input beings with an integer TT, the number of Philosopher's Stones that Edgar tries to reconstitute. For each stone there are two lines. The first contains the integer NN. The second contains the length-NN string C_{1..N}C
+1..N
+​	 .
+Output
+For the iith stone, output a line containing "Case #i: " followed by a single character, either "Y" if it's possible For Edgar to end up with the Philosopher's Stone, or "N" if not.
+Constraints
+1 \le T \le 951≤T≤95
+3 \le N \le 99,9993≤N≤99,999
+NN is odd
+C_i \in \{A, B\}C
+i
+​	 ∈{A,B}
+The sum of NN over all test cases is at most 1,000,000.
